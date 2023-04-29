@@ -13,9 +13,9 @@ body {
 }
 
 .menu {
-  width: 50%;
+  width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 
@@ -143,5 +143,5 @@ body {
   justify-content: space-around;
   align-items: center;
   height:150px;
-  width: 300px;
+  width: 100%;
 }
